@@ -5,13 +5,13 @@
 -<a href="https://github.com/Donovandonz/Excel--Analysis-Project-Portfolio">Excel-project-portfolio</a>
 
 ---
-# POWER-BI
+# POWER-BI👇
 -<a href="https://github.com/Donovandonz/Power-BI--Analysis-Project-Portfolio">Power-BI-project-portfolio</a>
 
 ---
-# MySQL
+# MySQL👇
 -<a href="https://github.com/Donovandonz/SQL--Analysis-Project-Portfolio">MySQL-project-portfolio</a>
 
 ---
-# TABLEAU
+# TABLEAU👇
 -<a href="https://github.com/Donovandonz/Tableau--Analysis-Project-Portfolio">Tableau-project-portfolio</a>
